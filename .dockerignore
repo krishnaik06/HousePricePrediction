@@ -1,0 +1,11 @@
+build/
+dist/
+venv/
+.ip*
+housing/*
+logs/*
+saved_models/*
+*.egg-info/*
+initial_bash_script.sh
+.git/*
+.github/*
